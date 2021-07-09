@@ -1,0 +1,38 @@
+[{
+      "id": "abc123",
+      "name": "Old Fashioned",
+      "price": 1.99,
+      "image": "oldfashioned"
+    },
+    {
+      "id": "abc456",
+      "name": "Glazed",
+      "price": 0.99,
+      "image": "glazed"
+    },
+    {
+      "id": "abc789",
+      "name": "Iced Sprinkes",
+      "price": 1.99,
+      "image": "sprinkles"
+    },
+    {
+      "id": "abc101",
+      "name": "Maple Bar",
+      "price": 2.99,
+      "image": "maplebar"
+    },
+    {
+      "id": "abc112",
+      "name": "Jelly",
+      "price": 1.99,
+      "image": "jelly"
+    },
+    {
+      "id": "abc121",
+      "name": "Apple Fritter",
+      "price": 3.99,
+      "image": "applefritter"
+    },
+]
+
